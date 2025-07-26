@@ -1,0 +1,87 @@
+---
+alwaysApply: true
+---
+
+## Agentic Frameworks Comparison
+
+### Framework Analysis
+
+**Code-Based:** LangChain, AutoGen, CrewAI, Haystack, OpenAI Assistants API
+**No-Code:** Zapier Central, Flowise, LangFlow, Voiceflow, Botpress, n8n, Make
+
+For each framework, analyze:
+
+- Core capabilities and use cases
+- Ease of use vs. customization flexibility
+- Setup complexity and learning curve
+- Performance and scalability
+- Cost considerations
+- Development Speed
+- Scalability
+- Cost Effectiveness
+
+### Requirements
+
+- Create a comparison table rating frameworks on:
+- Build a simple agentic workflow example using one code-based and one no-code framework
+- Document the development process and challenges
+
+### Recommendations
+
+Provide clear guidance on:
+
+- When to choose code-based vs. no-code approaches
+- Best framework for different use cases (chatbot, workflow automation, data analysis, etc.)
+
+### Deliverables
+
+**Document Requirements:**
+
+- Include a comparison table, code examples, and screenshots
+- Executive summary with key recommendations
+- Submit as a shared Google Doc link
+
+### Submission
+
+Submit a shareable Google Doc link with view access enabled. ## Agentic Frameworks Comparison
+
+### Framework Analysis
+
+**Code-Based:** LangChain, AutoGen, CrewAI, Haystack, OpenAI Assistants API
+**No-Code:** Zapier Central, Flowise, LangFlow, Voiceflow, Botpress, n8n, Make
+
+For each framework, analyze:
+
+- Core capabilities and use cases
+- Ease of use vs. customization flexibility
+- Setup complexity and learning curve
+- Performance and scalability
+- Cost considerations
+- Development Speed
+- Scalability
+- Cost Effectiveness
+
+### Requirements
+
+- Create a comparison table rating frameworks on:
+- Build a simple agentic workflow example using one code-based and one no-code framework
+- Document the development process and challenges
+
+### Recommendations
+
+Provide clear guidance on:
+
+- When to choose code-based vs. no-code approaches
+- Best framework for different use cases (chatbot, workflow automation, data analysis, etc.)
+
+### Deliverables
+
+**Document Requirements:**
+
+- Include a comparison table, code examples, and screenshots
+- Executive summary with key recommendations
+- Submit as a shared Google Doc link
+
+### Submission
+
+Submit a shareable Google Doc link with view access enabled. 
