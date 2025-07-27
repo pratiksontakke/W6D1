@@ -1,0 +1,12 @@
+langchain
+langchain_core
+langchain_openai 
+pandas
+gspread 
+gspread-dataframe 
+google-auth-oauthlib 
+langchain-google-genai 
+langchain-experimental
+python-dotenv
+ruff
+tabulate
