@@ -10,3 +10,4 @@ langchain-experimental
 python-dotenv
 ruff
 tabulate
+streamlit

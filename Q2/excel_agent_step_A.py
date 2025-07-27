@@ -2,7 +2,6 @@
 
 # --- Step 1: Import all the necessary libraries ---
 import os
-import pandas as pd
 import gspread
 from gspread_dataframe import get_as_dataframe
 from google.oauth2.service_account import Credentials
@@ -97,9 +96,9 @@ if __name__ == "__main__":
 
         # Only proceed if the DataFrame was loaded successfully
         if df is not None:
-            print("\n--- Data Preview ---")
-            print(df.head())
-            print("\n--------------------\n")
+            # print("\n--- Data Preview ---")
+            # print(df.head())
+            # print("\n--------------------\n")
 
             # Initialize the LLM "brain" of our agent
             llm = ChatGoogleGenerativeAI(model="gemini-2.5-flash", temperature=0)
